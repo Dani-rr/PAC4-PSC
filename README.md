@@ -5,17 +5,17 @@ Con la realización de este ejercicio vamos a poner en práctica los conocimient
 
 El proyecto está estructurado de la siguiente forma:
 
-	- Carpeta principal: 
-		pec4.py: Script principal que resuelve las dudas propuestas en el enunciado de la PEC
-		test.py: Unittest que comprueban el buen funcionamiento de las funciones implementadas.
-		.coverage: Resultado de runear el paquete coverage
-		requirements.txt: Archivo con los paquetes necesarios para runear nuestro código
+- Carpeta principal: 
+	pec4.py: Script principal que resuelve las dudas propuestas en el enunciado de la PEC
+	test.py: Unittest que comprueban el buen funcionamiento de las funciones implementadas.
+	.coverage: Resultado de runear el paquete coverage
+	requirements.txt: Archivo con los paquetes necesarios para runear nuestro código
 
-	- data: Contiene tanto el zip original con todos los csv, así como su extracción y el dataframe 'df.csv' que hemos generado y que se usará durante el ejercicio.
+- data: Contiene tanto el zip original con todos los csv, así como su extracción y el dataframe 'df.csv' que hemos generado y que se usará durante el ejercicio.
 
-	
-	- tareas2-7:
-		Hemos decidido separar cada tarea por paquetes. Dentro de estos paquetes encontraremos modulos llamados funciones[número de tarea].py con cada una de las funciones necesarias para resolver esta tarea.
+
+- tareas2-7:
+	Hemos decidido separar cada tarea por paquetes. Dentro de estos paquetes encontraremos modulos llamados funciones[número de tarea].py con cada una de las funciones necesarias para resolver esta tarea.
 
 
 La tarea se resolverá ejecutando el archivo pec4.py.
@@ -44,6 +44,6 @@ coverage report -m
 
 Se ha elegido una la licencia CC-BY-NC-SA por los siguientes motivos: 
 
-	- Cualquier me modificación o implementación de información que se produzca en el dataset puede ser de ayuda a otros usuarios.
+- Cualquier me modificación o implementación de información que se produzca en el dataset puede ser de ayuda a otros usuarios.
 
-	- Dado que los datos son de carácter público, se prefiere que el uso que se haga de ellos no sean de carácter comercial y todas las contribuciones o modificaciones de ellos deberán distribuirse bajo el mismo tipo de licencia.
+- Dado que los datos son de carácter público, se prefiere que el uso que se haga de ellos no sean de carácter comercial y todas las contribuciones o modificaciones de ellos deberán distribuirse bajo el mismo tipo de licencia.
