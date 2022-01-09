@@ -40,6 +40,10 @@ coverage run -m unittest discover
 
 coverage report -m
 
+### Otros
+
+Debido a la falta de tiempo no se ha podido realizar la tarea opcional (8).
+
 ## Licencia
 
 Se ha elegido una la licencia CC-BY-NC-SA por los siguientes motivos: 
@@ -47,3 +51,7 @@ Se ha elegido una la licencia CC-BY-NC-SA por los siguientes motivos:
 - Cualquier me modificación o implementación de información que se produzca en el dataset puede ser de ayuda a otros usuarios.
 
 - Dado que los datos son de carácter público, se prefiere que el uso que se haga de ellos no sean de carácter comercial y todas las contribuciones o modificaciones de ellos deberán distribuirse bajo el mismo tipo de licencia.
+
+## Agradecimientos
+
+Last but not least. Como con la entrega de esta práctica se acaba la asignatura me gustaría agradecerte todo el conocimiento y material que has puesto a nuestra disposición. Siempre has estado disponible y has respondido todas nuestras dudas en el foro (incluso a los que no posteamos mucho) de manera clara, amena y humilde. 
