@@ -40,7 +40,7 @@ coverage run -m unittest discover
 
 coverage report -m
 
-### Licencia
+## Licencia
 
 Se ha elegido una la licencia CC-BY-NC-SA por los siguientes motivos: 
 
